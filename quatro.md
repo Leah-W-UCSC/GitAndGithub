@@ -2,9 +2,9 @@
 leah
 2026-01-07
 
-\#This is going to give me a stroke
+# This is going to give me a stroke
 
-\##this one is going to give me two strokes :)
+## this one is going to give me two strokes :)
 
 I *like* to *eat* **icecream** sometimes
 
