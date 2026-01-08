@@ -1,6 +1,6 @@
 # my first quatro document
 leah
-2026-01-07
+Wednesday, January 7, 2026
 
 # This is going to give me a stroke
 

@@ -3,8 +3,8 @@ title: "my first quatro document"
 author: "leah"
 format: gfm
 editor: visual
-date: 2026-01-07
-date-format: long 
+date: 01/07/2026
+date-format: full 
 ---
 
 # This is going to give me a stroke 
