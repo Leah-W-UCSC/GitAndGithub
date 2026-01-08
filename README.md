@@ -237,7 +237,7 @@ Please edit it to include your name and your partner's name. Make sure you keep 
 
 okay, here goes nothing 
 
-#Leah and Ambrosio's repo 
+## Leah and Ambrosio's repo 
 
 Save this file (Cmd/Ctrl-S or File -> Save) and notice how it shows up in your Git tab. It now has a blue “M”: GitHub is already tracking this file line-by-line, so it knows that something is different: it’s Modified with an M.
 
